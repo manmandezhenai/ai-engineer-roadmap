@@ -1,0 +1,15 @@
+Day 1: 命令行入门
+Day 2: PyCharm 与 Git
+Day 3: Git 基础操作
+Day 4: GitHub 远程仓库
+Day 5: Python 安装与第一行代码
+Day 6: 变量与数据类型
+Day 7: 运算符与输入
+Day 8: 条件判断
+Day 9: 列表入门
+Day 10: for 循环
+Day 11: while 循环与循环控制
+Day 12: 字典与元组
+Day 13: 函数定义与调用
+Day 14: 函数进阶
+Day 15: 文件读写
